@@ -9,10 +9,6 @@ ex3 - Crie uma classe para representar pessoas. O construtor da classe deve rece
 
 - Eclipse IDE
   
-### 🔧 Instalação
-
-* Explicação de como deve ser utilizado o projeto
-
 ## 🛠️ Construído com
 
 O código deve ser inicializado por uma IDE que aceite Java, como o Eclipse.
